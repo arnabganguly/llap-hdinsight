@@ -53,10 +53,10 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
   
  2. In the Add role assignment section populate the below fields.
       
- - Role: *Storage Blob Data Owner*
- - Assign access to: *User assigned managed identity*
- - Subscription: *Choose Azure subscription*
- - Select: *Select the Managed Service Identity that was created in the earlier section*
+ - **Role**: *Storage Blob Data Owner*
+ - **Assign access to**: *User assigned managed identity*
+ - **Subscription**: *Choose Azure subscription*
+ - **Select**: *Select the Managed Service Identity that was created in the earlier section*
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture8.png)    
  
@@ -73,19 +73,16 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture0.png)
 
 
-3. In the **Basics** blade populate the following values.
+ 3. In the **Basics** blade populate the following values.
+ 
+ - **Cluster Name:**  *Enter the cluster name. A green tick will appear if the cluster name is available.*
+ - **Cluster Type:**  Select Interctive as the cluster type.
+ - **Cluster Operating System:**  Select Linux as the cluster operating system
+ - **Version:**  Select 3.6 as the cluster version.
+ - **Cluster Tier:**  Select the  **Standard**  cluster tier
 
-1.  **Cluster Name:**  *Enter the cluster name. A green tick will appear if the cluster name is available.*
-    
-2.  **Cluster Type:**  Select Interctive as the cluster type.
-    
-3.  **Cluster Operating System:**  Select Linux as the cluster operating system
-    
-4.  **Version:**  Select 3.6 as the cluster version.
-    
-5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0ODk1ODk2NywtMTMxMjI1NjUxMywtNz
+eyJoaXN0b3J5IjpbLTc1ODE3NTQ2NywtMTMxMjI1NjUxMywtNz
 g0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODEx
 Nl19
 -->
