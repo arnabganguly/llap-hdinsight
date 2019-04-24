@@ -86,8 +86,14 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture12.png)
+
+ 4. In the Storage blade populate the following values.
+ - **Primary Azure Storage Type**: *Azure Data Lake Storage Gen2*
+ - Select
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYyODgyNzE5LC0xNTExMTMwMDY2LC0xMz
-EyMjU2NTEzLC03ODQ4NjkzMywtMjExOTE5MDIwNSw1NzExMzM3
-MDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMjExOTk4Mjk3OSwtMTUxMTEzMDA2NiwtMT
+MxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMz
+NzA1LDczMDk5ODExNl19
 -->
