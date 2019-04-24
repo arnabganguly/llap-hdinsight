@@ -1,5 +1,5 @@
 ## Provision Azure Data Lake Gen2 Storage 
-To provision a Azure Data Lake Gen2 Storage account and 
+To provision an Azure Data Lake Gen2 Storage account and associate it with a Managed Service Identity perform the b
 
 
 ## Provision HDInsight Linux Hadoop cluster with Azure Management Portal
@@ -25,6 +25,6 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTkxOTAyMDUsNTcxMTMzNzA1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTEyMDY2NTk4MTMsLTIxMTkxOTAyMDUsNT
+cxMTMzNzA1LDczMDk5ODExNl19
 -->
