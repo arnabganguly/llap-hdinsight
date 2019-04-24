@@ -19,10 +19,10 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture2.png)
 
  - Populate the **Advanced** tab of Storage account with the below information.
- - Secure transfer required: Enabled 
- - Virtual Network: All networks
- - Data Protection: Disabled
- - Data Lake Storage Gen2: Enabled
+ - Security(Secure transfer required): *Enabled* 
+ - Virtual Network(Allow access from): *All networks*
+ - Data Protection(Blob soft delete): *Disabled*
+ - Data Lake Storage Gen2(Hierarchical Namespace): *Enabled*
 
 ## Provision HDInsight Linux Hadoop cluster with Azure Management Portal
 
@@ -47,6 +47,6 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzAzOTcyNSwtMjExOTE5MDIwNSw1Nz
+eyJoaXN0b3J5IjpbMTgwNzg5MjMxNCwtMjExOTE5MDIwNSw1Nz
 ExMzM3MDUsNzMwOTk4MTE2XX0=
 -->
