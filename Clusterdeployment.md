@@ -89,11 +89,13 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
 
  4. In the Storage blade populate the following values.
  - **Primary Azure Storage Type**: *Azure Data Lake Storage Gen2*
- - Select
+ - **Select a Storage account**: Select the ADLS Gen2 account created earlier
+ - Leave **Filesystem** and **Additional storage accounts** at default 
+ - 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTk4Mjk3OSwtMTUxMTEzMDA2NiwtMT
+eyJoaXN0b3J5IjpbMTYxODU3MzIwMSwtMTUxMTEzMDA2NiwtMT
 MxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMz
 NzA1LDczMDk5ODExNl19
 -->
