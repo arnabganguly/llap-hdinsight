@@ -64,7 +64,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
 
 ## Provision HDInsight Linux Hadoop cluster with Azure Management Portal
 
-To provision HDInsight Hadoop cluster with Azure Management Portal, perform the below steps.
+To provision HDInsight Hadoop cluster with Azure Management Portal, perform the below steps. For this lab we will use the *Quick Create* option. 
 
 1.  Go to the Azure Portal portal.azure.com. Login using your azure account credentials.
     
@@ -90,12 +90,13 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
  4. In the Storage blade populate the following values.
  - **Primary Azure Storage Type**: *Azure Data Lake Storage Gen2*
  - **Select a Storage account**: Select the ADLS Gen2 account created earlier
- - Leave **Filesystem** and **Additional storage accounts** at default 
+ - Leave **Filesystem** and **Additional storage accounts** and **Subscription** at default 
+ - **User-assigned managed identity**: Select the MI created earlier from the drop down
  - 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxODU3MzIwMSwtMTUxMTEzMDA2NiwtMT
-MxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMz
-NzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTE0NTYxNTc1MjgsLTE1MTExMzAwNjYsLT
+EzMTIyNTY1MTMsLTc4NDg2OTMzLC0yMTE5MTkwMjA1LDU3MTEz
+MzcwNSw3MzA5OTgxMTZdfQ==
 -->
