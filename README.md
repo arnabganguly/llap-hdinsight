@@ -6,7 +6,8 @@ For this lab, an HDInsight cluster is already created for you. If you want to cr
 
 ## [](https://github.com/Microsoft/code-challenges/tree/master/Labs/Azure%20HDInsight/HiveLab#lab)Lab
 
-To the start the lab click [here](https://github.com/arnabganguly/llap-hdinsight/blob/master/Clusterdeployment.md).
+To the start the lab click [here](https://github.com/arnabganguly/llap-hdinsight/blob/master/HiveLLAP.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTg1MTczNywtMTA5MDg3MzkzXX0=
+eyJoaXN0b3J5IjpbMTc0NDQ1NTE3MywxNDg1ODUxNzM3LC0xMD
+kwODczOTNdfQ==
 -->
