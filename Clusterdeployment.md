@@ -31,7 +31,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture4.png)
  
 ### Create a Managed Service Identity 
-
+1. 
 
 
 ## Provision HDInsight Linux Hadoop cluster with Azure Management Portal
@@ -57,6 +57,6 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NDg2OTMzLC0yMTE5MTkwMjA1LDU3MT
-EzMzcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTk0OTA0NTc4LC03ODQ4NjkzMywtMjExOT
+E5MDIwNSw1NzExMzM3MDUsNzMwOTk4MTE2XX0=
 -->
