@@ -97,11 +97,12 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture13.png)
 
-5. Validate the 
+5. In the *Summary* blade validate the cluster about to be deployed and click *Create*. 
+
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE2NDY1ODYsLTE1MTExMzAwNjYsLT
+eyJoaXN0b3J5IjpbLTE5OTc4NDY3NDIsLTE1MTExMzAwNjYsLT
 EzMTIyNTY1MTMsLTc4NDg2OTMzLC0yMTE5MTkwMjA1LDU3MTEz
 MzcwNSw3MzA5OTgxMTZdfQ==
 -->
