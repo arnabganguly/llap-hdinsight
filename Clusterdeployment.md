@@ -80,11 +80,11 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
                                      Version-   *Interactive Query 3.1.0(HDI 4.0)* 
  - **Cluster login username**:Enter username for cluster administrator(default:Admin) 
  - **Cluster login password**: Enter password for cluster login(default:sshuser)
- - Check the bbox for User cls
- - **Secure Shell(SSH) username**  Select the  **Standard** cluster tier
+ - *Check the box for User cluster password for SSH*
+ - **Resource Group**: Put the cluster in the same resource group as the Storage account and MI. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwMTg1MTA1LC0xNTExMTMwMDY2LC0xMz
-EyMjU2NTEzLC03ODQ4NjkzMywtMjExOTE5MDIwNSw1NzExMzM3
-MDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTE5Nzk1OTQxNSwtMTUxMTEzMDA2NiwtMT
+MxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMz
+NzA1LDczMDk5ODExNl19
 -->
