@@ -79,12 +79,15 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
  - **Cluster Type** : Cluster Type -  *Interactive Query* 
                                      Version-   *Interactive Query 3.1.0(HDI 4.0)* 
  - **Cluster login username**:Enter username for cluster administrator(default:Admin) 
- - **Cluster login password**: Enter password for cluster login(default:sshuser)
+ - **Cluster login password**:*Enter password for cluster login(default:sshuser)*
  - *Check the box for User cluster password for SSH*
- - **Resource Group**: Put the cluster in the same resource group as the Storage account and MI. 
+ - **Resource Group**:*Put the cluster in the same resource group as the Storage account and MI.* 
+ - **Location**: *Use the same Azure Region as the Storage account and MI*
 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture12.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Nzk1OTQxNSwtMTUxMTEzMDA2NiwtMT
-MxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMz
-NzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzYyODgyNzE5LC0xNTExMTMwMDY2LC0xMz
+EyMjU2NTEzLC03ODQ4NjkzMywtMjExOTE5MDIwNSw1NzExMzM3
+MDUsNzMwOTk4MTE2XX0=
 -->
