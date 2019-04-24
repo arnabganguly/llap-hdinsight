@@ -92,11 +92,16 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
  - **Select a Storage account**: Select the ADLS Gen2 account created earlier
  - Leave **Filesystem** and **Additional storage accounts** and **Subscription** at default 
  - **User-assigned managed identity**: Select the MI created earlier from the drop down
- - 
+ - Leave rest of the options at default state and click *Next* 
+
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture13.png)
+
+5. Validate the 
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYxNTc1MjgsLTE1MTExMzAwNjYsLT
+eyJoaXN0b3J5IjpbLTExNTE2NDY1ODYsLTE1MTExMzAwNjYsLT
 EzMTIyNTY1MTMsLTc4NDg2OTMzLC0yMTE5MTkwMjA1LDU3MTEz
 MzcwNSw3MzA5OTgxMTZdfQ==
 -->
