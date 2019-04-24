@@ -73,7 +73,7 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture0.png)
 
 
-3. In the **Basics** or select the following values.
+3. In the **Basics** blade populate the following values.
 
 1.  **Cluster Name:**  *Enter the cluster name. A green tick will appear if the cluster name is available.*
     
@@ -85,7 +85,7 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjMzNDY5NiwtMTMxMjI1NjUxMywtNz
+eyJoaXN0b3J5IjpbMTU0ODk1ODk2NywtMTMxMjI1NjUxMywtNz
 g0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODEx
 Nl19
 -->
