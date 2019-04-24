@@ -53,9 +53,10 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
   
  2. In the Add role assignment section populate the below fields.
       
- - Role : Storage
- - Assign Access:
- - Subscription :
+ - Role: *Storage Blob Data Owner*
+ - Assign access to: *User assigned managed identity*
+ - Subscription: *Choose Azure subscription*
+ - Select: *Select the Managed Service Identity that was created in the earlier section*
 
         
  
@@ -82,6 +83,6 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDI4ODU5NTIsLTc4NDg2OTMzLC0yMT
-E5MTkwMjA1LDU3MTEzMzcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2Nzk1MjgwMSwtNzg0ODY5MzMsLTIxMT
+kxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODExNl19
 -->
