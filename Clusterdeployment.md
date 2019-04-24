@@ -2,8 +2,11 @@
 To provision an Azure Data Lake Gen2 Storage account and associate it with a Managed Service Identity perform the below steps. 
 
 ### Create an ADLS Gen2 storage account 
-1. In the search bar search for "Storage 
+1. In the search bar search for "Storage account".
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture1.png)
+  
+  2. Populate the fields of Storage acco
 
 ## Provision HDInsight Linux Hadoop cluster with Azure Management Portal
 
@@ -28,6 +31,6 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ0MzAyMDcsLTIxMTkxOTAyMDUsNT
-cxMTMzNzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA3NTA2NjAzMywtMjExOTE5MDIwNSw1Nz
+ExMzM3MDUsNzMwOTk4MTE2XX0=
 -->
