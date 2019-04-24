@@ -10,7 +10,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
         
  - Resource group: *Create or use an existing resource group* 
  - Storage account name: *Enter a unique name for your storage account*
- - Location: *Enter an Azure region( HDInsight cluster will be created in same the Azure region)*
+ - Location: *Enter an Azure region( HDInsight cluster needs to be created in same the Azure region)*
  -  Performance: *Standard*
  - Account Kind: *StorageV2(general purpose v2)*
  - Replication: *Locally-redundant storage(LRS)*
@@ -39,7 +39,10 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
       
  - Resource Name: Name of the managed identity 
  - Subscription: Choose the Azure subscription
- - Resource group: Choose a 
+ - Resource group: *Create or use an existing resource group* 
+ - Location: *Enter an Azure region( Choose same region as storage location)*
+   
+    ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture6.png)
 
 ## Provision HDInsight Linux Hadoop cluster with Azure Management Portal
 
@@ -64,6 +67,6 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
     
 5.  **Cluster Tier:**  Select the  **Standard**  cluster tier
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ5MDcxNzUsLTc4NDg2OTMzLC0yMT
-E5MTkwMjA1LDU3MTEzMzcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTg4ODM5MTg3OCwtNzg0ODY5MzMsLTIxMT
+kxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODExNl19
 -->
