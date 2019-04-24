@@ -8,21 +8,21 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
   
  2. Populate the **Basics** tab of Storage account with the below information.
         
- - Resource group: *Create or use an existing resource group* 
- - Storage account name: *Enter a unique name for your storage account*
- - Location: *Enter an Azure region( HDInsight cluster needs to be created in same the Azure region)*
- -  Performance: *Standard*
- - Account Kind: *StorageV2(general purpose v2)*
- - Replication: *Locally-redundant storage(LRS)*
- - Access Tier: *Hot*
+ - **Resource group**: *Create or use an existing resource group* 
+ - **Storage account name**: *Enter a unique name for your storage account*
+ - **Location**: *Enter an Azure region( HDInsight cluster needs to be created in same the Azure region)*
+ -  **Performance**: *Standard*
+ - **Account Kind**: *StorageV2(general purpose v2)*
+ - **Replication**: *Locally-redundant storage(LRS)*
+ - **Access Tier**: *Hot*
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture2.png)
 
  - Populate the **Advanced** tab of Storage account with the below information.
- - Security(Secure transfer required): *Enabled* 
- - Virtual Network(Allow access from): *All networks*
- - Data Protection(Blob soft delete): *Disabled*
- - Data Lake Storage Gen2(Hierarchical Namespace): *Enabled*
+ - **Security(Secure transfer required)**: *Enabled* 
+ - **Virtual Network(Allow access from)**: *All networks*
+ - **Data Protection(Blob soft delete**): *Disabled*
+ - **Data Lake Storage Gen2(Hierarchical Namespace)**: *Enabled*
    
    ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture3.png)
   
@@ -37,10 +37,10 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
   
  2. In the Managed Identities creation blade populate the below fields.
       
- - Resource Name: Name of the managed identity 
- - Subscription: Choose the Azure subscription
- - Resource group: *Create or use an existing resource group* 
- - Location: *Enter an Azure region( Choose same region as storage location)*
+ - **Resource Name**: Name of the managed identity 
+ - **Subscription**: Choose the Azure subscription
+ - **Resource group**: *Create or use an existing resource group* 
+ - **Location**: *Enter an Azure region( Choose same region as storage location)*
    
    ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture6.png)
 
@@ -76,13 +76,13 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
  3. In the **Basics** blade populate the following values.
  
  - **Cluster Name:**  *Enter the cluster name. A green tick will appear if the cluster name is available.*
- - **Cluster Type:**  Select Interctive as the cluster type.
+ - **Cluster Type:**  Select Interactive Query as the cluster type and Interactive Query 
  - **Cluster Operating System:**  Select Linux as the cluster operating system
  - **Version:**  Select 3.6 as the cluster version.
  - **Cluster Tier:**  Select the  **Standard**  cluster tier
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1ODE3NTQ2NywtMTMxMjI1NjUxMywtNz
+eyJoaXN0b3J5IjpbMTI4MzA1Nzg0OSwtMTMxMjI1NjUxMywtNz
 g0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODEx
 Nl19
 -->
