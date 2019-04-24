@@ -30,7 +30,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
   
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture4.png)
  
-### Create a Managed Service Identity 
+## Create a Managed Service Identity 
  1. Search for *Managed Identities*.  
   
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture5.png)
@@ -45,7 +45,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
    ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture6.png)
 
  
-### Assign Managed Service Identity to Storage Account
+## Assign Managed Service Identity to ADLS Gen2 Storage Account
 
 1. Open the storage account previously created and click on *Access control(IAM)*. Click on *Add* -> *Add role assignment*  
 
@@ -104,7 +104,7 @@ In the next section where we would be exploring data analytics using LLAP.
 
 Click [Next](https://github.com/arnabganguly/llap-hdinsight/blob/master/HiveLLAP.md)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjgxNTczOCwtMTUxMTEzMDA2NiwtMT
-MxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMz
-NzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbODMwODExNzA2LC0xNTExMTMwMDY2LC0xMz
+EyMjU2NTEzLC03ODQ4NjkzMywtMjExOTE5MDIwNSw1NzExMzM3
+MDUsNzMwOTk4MTE2XX0=
 -->
