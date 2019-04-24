@@ -1,7 +1,12 @@
+# Azure HDInsight - Big data processing using Hive on Azure HDInsight
 
+## [](https://github.com/Microsoft/code-challenges/tree/master/Labs/Azure%20HDInsight/HiveLab#deployment)Deployment
 
+For this lab, an HDInsight cluster is already created for you. If you want to create this cluster on your own, please go through this  [deployment guide](https://github.com/Microsoft/code-challenges/blob/master/Labs/Azure%20HDInsight/HiveLab/deployment/readme.md).
 
-> Written with [StackEdit](https://stackedit.io/).
+## [](https://github.com/Microsoft/code-challenges/tree/master/Labs/Azure%20HDInsight/HiveLab#lab)Lab
+
+See the hands-on lab  [here](https://github.com/Microsoft/code-challenges/blob/master/Labs/Azure%20HDInsight/HiveLab/hands-on-lab.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE0MjE3MDI5NzldfQ==
 -->
