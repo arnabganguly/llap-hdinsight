@@ -76,13 +76,14 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
  3. In the **Basics** blade populate the following values.
  
  - **Cluster Name:**  *Enter the cluster name. A green tick will appear if the cluster name is available.*
- - **Cluster Type:**  Select Interactive Query as the cluster type and Interactive Query 
+ - **Cluster Type:** : Cluster Type -  *Interactive Query* 
+                                     Version-   *Interactive Query 3.1.0(HDI 4.0)* 
  - **Cluster Operating System:**  Select Linux as the cluster operating system
  - **Version:**  Select 3.6 as the cluster version.
  - **Cluster Tier:**  Select the  **Standard**  cluster tier
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzA1Nzg0OSwtMTMxMjI1NjUxMywtNz
+eyJoaXN0b3J5IjpbMTI4NTAzODkwNSwtMTMxMjI1NjUxMywtNz
 g0ODY5MzMsLTIxMTkxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODEx
 Nl19
 -->
