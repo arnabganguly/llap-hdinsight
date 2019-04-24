@@ -1,4 +1,4 @@
-# Azure HDInsight - Big data processing using Hive on Azure HDInsight
+# Azure HDInsight - Big data processing using LLAP on Azure HDInsight
 
 ## [](https://github.com/Microsoft/code-challenges/tree/master/Labs/Azure%20HDInsight/HiveLab#deployment)Deployment
 
@@ -8,5 +8,5 @@ For this lab, an HDInsight cluster is already created for you. If you want to cr
 
 To the start the lab click  [here](https://github.com/Microsoft/code-challenges/blob/master/Labs/Azure%20HDInsight/HiveLab/hands-on-lab.md).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODU2ODQ0OF19
+eyJoaXN0b3J5IjpbLTEwOTA4NzM5M119
 -->
