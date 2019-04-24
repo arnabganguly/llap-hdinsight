@@ -99,10 +99,9 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
 
 5. In the *Summary* blade validate the cluster about to be deployed and click *Create*. 
 
-
- 
+In about 20 minutes an HDInsight Cluster with an ADLS Gen2 account will be ready for usage. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc4NDY3NDIsLTE1MTExMzAwNjYsLT
-EzMTIyNTY1MTMsLTc4NDg2OTMzLC0yMTE5MTkwMjA1LDU3MTEz
-MzcwNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzY4NjgwMjMyLC0xNTExMTMwMDY2LC0xMz
+EyMjU2NTEzLC03ODQ4NjkzMywtMjExOTE5MDIwNSw1NzExMzM3
+MDUsNzMwOTk4MTE2XX0=
 -->
