@@ -5,12 +5,13 @@
 1. Launch the Azure Storage explorer 
 2. Click connect icon on the left and select *use a connection string*
 3. Copy one of the storage keys from the storage accounts 
-4. Attach the storage account with the connection 
+4. Attach the storage account with the connection string as shown   below.
+5. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTg0Njc1NSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNTczNDAwNjAxLDIwNDAyOTc2MjJdfQ==
 -->
