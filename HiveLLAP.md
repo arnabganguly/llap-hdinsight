@@ -1,6 +1,10 @@
 ##  Use LLAP to run queries 
 
-### Upload test data to ADLS Gen 2 
+### Upload some test data to ADLS Gen 2
+
+1. Launch the Azure Storage explorer. 
+2. Click connect to Azure storage. 
+3. 
 
 
 
@@ -8,5 +12,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAyMzgyMDE5LDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMzEyMjk5MTMzLDIwNDAyOTc2MjJdfQ==
 -->
