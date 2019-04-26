@@ -1,6 +1,12 @@
-##  Use LLAP to create a new monitor. 
+##  Use LLAP to run queries 
+
+### Upload test data to ADLS Gen 2 
+
+
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDYzNDEwLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNjAyMzgyMDE5LDIwNDAyOTc2MjJdfQ==
 -->
