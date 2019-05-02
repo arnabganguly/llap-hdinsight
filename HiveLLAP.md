@@ -132,17 +132,17 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
  - **Server**: *clustername.azurehdinsight.net*
  -  Database: *Hive Databasename created earlier*  
  - Data Connectivity Mode: *DirectQuery*
-  ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture27.png)
+  ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture28.png)
   
  3.  Enter the http(Ambari) username and password for the HDInsight LLAP cluster.
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture28.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture29.png)
   
   4. Select the Table *Zomato* from the left hand side and click **Load**. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture29.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture30.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTU1NzA4NTAsLTExMjcwMTkyMjYsLT
+eyJoaXN0b3J5IjpbLTE1Nzc3MTU5MTQsLTExMjcwMTkyMjYsLT
 E0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEy
 LDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
 -->
