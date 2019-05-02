@@ -123,9 +123,14 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ```
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
   
+ ### Connect LLAP with Power BI
+1. Launch a Power BI desktop and click *Get Data*.
+  
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture24.png) 
+  
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjUzMTYsLTE0ODkyNDkwLDQ4MDQ2ND
-MyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQw
-Mjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTk4MTE1MjAxNiwtMTQ4OTI0OTAsNDgwND
+Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
+NDAyOTc2MjJdfQ==
 -->
