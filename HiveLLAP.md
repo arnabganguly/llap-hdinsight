@@ -16,14 +16,16 @@
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture17.png)
 
-6. After the account is attached , the 
+6. After the account is attached , the storage account should appear on the left under *Local and Attached.* Expand the Blob container icon and click **Create Blob Container**. 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture18.png)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQxNzA5MDQzLDQ4MDQ2NDMyNiwxMDA4OT
-E2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTkyNDE5NjExMCw0ODA0NjQzMjYsMTAwOD
+kxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MDI5NzYyMl19
 
 -->
