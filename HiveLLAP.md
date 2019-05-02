@@ -18,11 +18,11 @@
 
 6. After the account is attached , the storage account should appear on the left under *Local and Attached.* Expand the Blob container icon and click **Create Blob Container**. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture18.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture20.png)
 
 7. Upload the files that are provided in the lab. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture19.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture21.png)
 
 ### Create Hive Tables and explore HQL queries
 
@@ -142,7 +142,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture28.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjcwMTkyMjYsLTE0ODkyNDkwLDQ4MD
-Q2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwy
-MDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbODg5MjI0MDA2LC0xMTI3MDE5MjI2LC0xND
+g5MjQ5MCw0ODA0NjQzMjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1
+NzM0MDA2MDEsMjA0MDI5NzYyMl19
 -->
