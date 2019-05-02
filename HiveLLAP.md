@@ -102,11 +102,11 @@ LOCATION
 
 4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture20.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
  5. Create a new Zeppelin notebook.  
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture21.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
   
   6. Insert the following code snippet into a code window within Zeppelin and observe the outcome. 
 ```
@@ -114,35 +114,35 @@ LOCATION
 show databases;
 select * from restaurants.zomato limit 10 ;
 ```
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture24.png)
   
   7. Now fire a complex query and visualize it using the graphical capabilities of Zeppelin.
 
 ```
 Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range` from flights.zomato where city= 'Bangalore'  ;
 ```
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture25.png)
   
  ### Connect LLAP with Power BI
  1. Launch a Power BI desktop and click *Get Data*.
   
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture24.png) 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture26.png) 
   
  2. Click *Azure* -> *HDInsight Interactive Query*. Insert the below details into the Interactive Query connection window.
  - **Server**: *clustername.azurehdinsight.net*
  -  Database: *Hive Databasename created earlier*  
  - Data Connectivity Mode: *DirectQuery*
-  ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture26.png)
+  ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture27.png)
   
  3.  Enter the http(Ambari) username and password for the HDInsight LLAP cluster.
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture27.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture28.png)
   
   4. Select the Table *Zomato* from the left hand side and click **Load**. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture28.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture29.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg5MjI0MDA2LC0xMTI3MDE5MjI2LC0xND
-g5MjQ5MCw0ODA0NjQzMjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1
-NzM0MDA2MDEsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbNDY0NDc5NDcsLTExMjcwMTkyMjYsLTE0OD
+kyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3
+MzQwMDYwMSwyMDQwMjk3NjIyXX0=
 -->
