@@ -104,9 +104,13 @@ LOCATION
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture20.png)
   
- 5. Create a new Zepplin notebook.  
+ 5. Create a new Zeppelin notebook.  
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture21.png)
+  
+  6. Insert the following code snippet into a code window
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDA1MTYxMjQsLTE0ODkyNDkwLDQ4MD
-Q2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwy
-MDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTUzNDg4Nzc2MywtMTQ4OTI0OTAsNDgwND
+Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
+NDAyOTc2MjJdfQ==
 -->
