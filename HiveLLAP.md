@@ -34,8 +34,7 @@ Create database restaurants;
 
 2. Use the below Hive statement to create the Hive Table. 
 
-````<![endif]-->
-
+```
 CREATE TABLE `zomato`(
 
 `restaurant id` int,
@@ -95,11 +94,15 @@ OUTPUTFORMAT
 LOCATION
 
 'abfs://<filesystem>@<clustername>.dfs.core.windows.net/hive/warehouse/restaurants.db/zomato';
+```
 
+3. Create LLAP jobs to query the data on Hive. 
+```
+```
 
-
+4. Launch the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OT
-E2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
-
+eyJoaXN0b3J5IjpbMTQ1ODI0MDk2OCwtMTQ4OTI0OTAsNDgwND
+Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
+NDAyOTc2MjJdfQ==
 -->
