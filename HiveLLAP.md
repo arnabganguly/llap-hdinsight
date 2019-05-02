@@ -24,7 +24,7 @@
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture19.png)
 
-### Create Hive Tables and populate data using HQL
+### Create Hive Tables and explore HQL queries
 
 1. Create the restaurants database 
 
@@ -116,9 +116,16 @@ select * from restaurants.zomato limit 10 ;
 ```
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
-  7. Now fire a complex query and visualize it using the g
+  7. Now fire a complex query and visualize it using the graphical capabilities of Zeppelin.
+
+```
+Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range` from flights.zomato where city= 'Bangalore'  ;
+```
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
+  
+  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNjg4ODc3LC0xNDg5MjQ5MCw0ODA0Nj
-QzMjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0
-MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTUzNjUzMTYsLTE0ODkyNDkwLDQ4MDQ2ND
+MyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQw
+Mjk3NjIyXX0=
 -->
