@@ -141,8 +141,13 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
   4. Select the Table *Zomato* from the left hand side and click **Load**. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture30.png)
+  
+  5. Create dashboards with real time Direct Query   connectivity with Power BI. 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc3MTU5MTQsLTExMjcwMTkyMjYsLT
-E0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEy
-LDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTEyNDMzMTE2OTksLTE1Nzc3MTU5MTQsLT
+ExMjcwMTkyMjYsLTE0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2
+ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
 -->
