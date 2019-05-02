@@ -119,7 +119,7 @@ select * from restaurants.zomato limit 10 ;
   7. Now fire a complex query and visualize it using the graphical capabilities of Zeppelin.
 
 ```
-Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range` from flights.zomato where city= 'Bangalore'  ;
+Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range` from restaurants.zomato where city= 'Bangalore'  ;
 ```
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture25.png)
   
@@ -142,7 +142,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture29.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY0NDc5NDcsLTExMjcwMTkyMjYsLTE0OD
-kyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3
-MzQwMDYwMSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE5NTU1NzA4NTAsLTExMjcwMTkyMjYsLT
+E0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEy
+LDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
 -->
