@@ -108,9 +108,17 @@ LOCATION
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture21.png)
   
-  6. Insert the following code snippet into a code window
+  6. Insert the following code snippet into a code window within Zeppelin and observe the outcome. 
+```
+%jdbc(hive)
+show databases;
+select * from restaurants.zomato limit 10 ;
+```
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
+  
+  7. Now fire a complex query and visualize it using the g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDg4Nzc2MywtMTQ4OTI0OTAsNDgwND
-Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
-NDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbNjMxNjg4ODc3LC0xNDg5MjQ5MCw0ODA0Nj
+QzMjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0
+MDI5NzYyMl19
 -->
