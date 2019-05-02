@@ -124,16 +124,19 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
   
  ### Connect LLAP with Power BI
-1. Launch a Power BI desktop and click *Get Data*.
+ - Launch a Power BI desktop and click *Get Data*.
   
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture24.png) 
   
-  2. Click *Azure* -> *HDInsight Interactive Query*. Insert the be
-  ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture25.png)
+ - Click *Azure* -> *HDInsight Interactive Query*. Insert the below details into the Interactive Query connection window.
+ - Server : <clustername>.azurehdinsight.net
+ - 
+
+  
     
     3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1ODA0Nzc5LC0xNDg5MjQ5MCw0ODA0Nj
-QzMjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0
-MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTUxMjAwMjE5NiwtMTQ4OTI0OTAsNDgwND
+Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
+NDAyOTc2MjJdfQ==
 -->
