@@ -100,9 +100,13 @@ LOCATION
 ```
 ```
 
-4. Launch the 
+4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture20.png)
+  
+ 5. Create a new Zepplin notebook.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODI0MDk2OCwtMTQ4OTI0OTAsNDgwND
-Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
-NDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2NDA1MTYxMjQsLTE0ODkyNDkwLDQ4MD
+Q2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwy
+MDQwMjk3NjIyXX0=
 -->
