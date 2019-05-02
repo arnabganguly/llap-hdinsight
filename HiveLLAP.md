@@ -9,15 +9,17 @@
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture15.png)
 
 3. Copy one of the storage keys from the storage accounts
+
+
  
-5. Attach the storage account with the connection string as shown   below.
-6. 
+4. Attach the storage account with the connection string as shown   below.
+5. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MD
-A2MDEsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbNDgwNDY0MzI2LDEwMDg5MTY4OCw0ODQyMD
+I1MTIsNTczNDAwNjAxLDIwNDAyOTc2MjJdfQ==
 -->
