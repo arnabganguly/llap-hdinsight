@@ -24,9 +24,15 @@
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture19.png)
 
-### Create Hive Tables and populate data
+### Create Hive Tables and populate data using HQL
 
-1. Use the below Hive statement to create the Hive Table. 
+1. Create the restaurants database 
+
+``` 
+Create database restaurants; 
+```
+
+2. Use the below Hive statement to create the Hive Table. 
 
 ````<![endif]-->
 
@@ -105,7 +111,7 @@ TBLPROPERTIES (
 'transient_lastDdlTime'='1556659229')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjU1OTI1Nyw0ODA0NjQzMjYsMTAwOD
+eyJoaXN0b3J5IjpbMTE0NDU2ODAxMiw0ODA0NjQzMjYsMTAwOD
 kxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MDI5NzYyMl19
 
 -->
