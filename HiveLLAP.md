@@ -130,14 +130,17 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
   
  2. Click *Azure* -> *HDInsight Interactive Query*. Insert the below details into the Interactive Query connection window.
  - **Server**: *clustername.azurehdinsight.net*
- -  Database: *Hive Databasename created earli*  
- - 
-
+ -  Database: *Hive Databasename created earlier*  
+ - Data Connectivity Mode: *DirectQuery*
+  ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture26.png)
   
-    
-    3. 
+ 3.  Enter the http(Ambari) username and password for the HDInsight LLAP cluster.
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture27.png)
+  
+  4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NzA3ODYyOCwtMTQ4OTI0OTAsNDgwND
+eyJoaXN0b3J5IjpbMTQ3NjY5NDg3NCwtMTQ4OTI0OTAsNDgwND
 Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
 NDAyOTc2MjJdfQ==
 -->
