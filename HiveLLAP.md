@@ -20,12 +20,16 @@
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture18.png)
 
+7. Upload the files that are provided in the lab. 
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture19.png)
 
+### Create Hive Tables and populate data
 
+1. C
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDE5NjExMCw0ODA0NjQzMjYsMTAwOD
-kxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MDI5NzYyMl19
-
+eyJoaXN0b3J5IjpbLTE3NTIyMjE0MTgsNDgwNDY0MzI2LDEwMD
+g5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2MjJd
+fQ==
 -->
