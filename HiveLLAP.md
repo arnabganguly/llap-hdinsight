@@ -94,24 +94,12 @@ OUTPUTFORMAT
 
 LOCATION
 
-'abfs://<filesystem>@<clustername>.dfs.core.windows.net/hive/warehouse/restaurants.db/zomato'
+'abfs://<filesystem>@<clustername>.dfs.core.windows.net/hive/warehouse/restaurants.db/zomato';
 
-TBLPROPERTIES (
 
-'COLUMN_STATS_ACCURATE'='{\"BASIC_STATS\":\"true\"}',
-
-'numFiles'='1',
-
-'numRows'='9557',
-
-'rawDataSize'='12474302',
-
-'totalSize'='448242',
-
-'transient_lastDdlTime'='1556659229')
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NDU2ODAxMiw0ODA0NjQzMjYsMTAwOD
-kxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTE0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OT
+E2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
 
 -->
