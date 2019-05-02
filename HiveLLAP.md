@@ -138,9 +138,11 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture27.png)
   
-  4. 
+  4. Select the Table *Zomato* from the left hand side and click **Load**. 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture28.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NjY5NDg3NCwtMTQ4OTI0OTAsNDgwND
-Y0MzI2LDEwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIw
-NDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTExMjcwMTkyMjYsLTE0ODkyNDkwLDQ4MD
+Q2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwy
+MDQwMjk3NjIyXX0=
 -->
