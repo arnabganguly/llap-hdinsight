@@ -64,7 +64,7 @@ STORED AS INPUTFORMAT
 OUTPUTFORMAT 
   'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat'
 LOCATION
-abfss://<file_system>@<storage_account_name>.dfs.core.windows.net/<path>/<file_name>;
+abfss://<file_system>@<storage_account_name>.dfs.core.windows.net/<path>/;
 ```
 
 3. Create LLAP jobs to query the data on Hive. 
@@ -118,8 +118,8 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NzM4NTk5NSwxMjg0NjM1MjkzLDEwOT
-I3OTAzMzMsLTE1Nzc3MTU5MTQsLTExMjcwMTkyMjYsLTE0ODky
-NDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3Mz
-QwMDYwMSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTE5ODIwOTg2MjcsMTg5NzM4NTk5NSwxMj
+g0NjM1MjkzLDEwOTI3OTAzMzMsLTE1Nzc3MTU5MTQsLTExMjcw
+MTkyMjYsLTE0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsND
+g0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
 -->
