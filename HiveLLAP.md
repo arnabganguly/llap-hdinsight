@@ -64,7 +64,7 @@ STORED AS INPUTFORMAT
 OUTPUTFORMAT 
   'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat'
 LOCATION
-'abfs://<filesystem>@<clustername>.dfs.core.windows.net/hive/warehouse/restaurants.db/zomato';
+abfss://<file_system>@<storage_account_name>.dfs.core.windows.net/<path>/<file_name>;
 ```
 
 3. Create LLAP jobs to query the data on Hive. 
@@ -118,8 +118,8 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NDYzNTI5MywxMDkyNzkwMzMzLC0xNT
-c3NzE1OTE0LC0xMTI3MDE5MjI2LC0xNDg5MjQ5MCw0ODA0NjQz
-MjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MD
-I5NzYyMl19
+eyJoaXN0b3J5IjpbMTg5NzM4NTk5NSwxMjg0NjM1MjkzLDEwOT
+I3OTAzMzMsLTE1Nzc3MTU5MTQsLTExMjcwMTkyMjYsLTE0ODky
+NDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsNDg0MjAyNTEyLDU3Mz
+QwMDYwMSwyMDQwMjk3NjIyXX0=
 -->
