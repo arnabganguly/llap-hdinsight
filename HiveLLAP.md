@@ -64,9 +64,6 @@ STORED AS INPUTFORMAT
 OUTPUTFORMAT 
   'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat'
 LOCATION
-
-LOCATION
-
 'abfs://<filesystem>@<clustername>.dfs.core.windows.net/hive/warehouse/restaurants.db/zomato';
 ```
 
@@ -121,7 +118,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTk5Njk1MiwtMTU3NzcxNTkxNCwtMT
+eyJoaXN0b3J5IjpbMTA5Mjc5MDMzMywtMTU3NzcxNTkxNCwtMT
 EyNzAxOTIyNiwtMTQ4OTI0OTAsNDgwNDY0MzI2LDEwMDg5MTY4
 OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2MjJdfQ==
 -->
