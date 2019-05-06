@@ -36,60 +36,34 @@ Create database restaurants;
 
 ```
 CREATE TABLE `zomato`(
-
-`restaurant id` int,
-
-`restaurant name` string,
-
-`country code` int,
-
-`city` string,
-
-`address` string,
-
-`locality` string,
-
-`locality verbose` string,
-
-`longitude` double,
-
-`latitude` double,
-
-`cuisines` string,
-
-`average cost for two` int,
-
-`currency` string,
-
-`has table booking` string,
-
-`has online delivery` string,
-
-`is delivering now` string,
-
-`switch to order menu` string,
-
-`price range` int,
-
-`aggregate rating` double,
-
-`rating color` string,
-
-`rating text` string,
-
-`votes` int)
-
-ROW FORMAT SERDE
-
-'org.apache.hadoop.hive.ql.io.orc.OrcSerde'
-
-STORED AS INPUTFORMAT
-
-'org.apache.hadoop.hive.ql.io.orc.OrcInputFormat'
-
-OUTPUTFORMAT
-
-'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat'
+  `restaurant id` int, 
+  `restaurant name` string, 
+  `country code` int, 
+  `city` string, 
+  `address` string, 
+  `locality` string, 
+  `locality verbose` string, 
+  `longitude` double, 
+  `latitude` double, 
+  `cuisines` string, 
+  `average cost for two` int, 
+  `currency` string, 
+  `has table booking` string, 
+  `has online delivery` string, 
+  `is delivering now` string, 
+  `switch to order menu` string, 
+  `price range` int, 
+  `aggregate rating` double, 
+  `rating color` string, 
+  `rating text` string, 
+  `votes` int)
+ROW FORMAT SERDE 
+  'org.apache.hadoop.hive.ql.io.orc.OrcSerde' 
+STORED AS INPUTFORMAT 
+  'org.apache.hadoop.hive.ql.io.orc.OrcInputFormat' 
+OUTPUTFORMAT 
+  'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat'
+LOCATION
 
 LOCATION
 
@@ -147,7 +121,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDMzMTE2OTksLTE1Nzc3MTU5MTQsLT
-ExMjcwMTkyMjYsLTE0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2
-ODgsNDg0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTgwOTk5Njk1MiwtMTU3NzcxNTkxNCwtMT
+EyNzAxOTIyNiwtMTQ4OTI0OTAsNDgwNDY0MzI2LDEwMDg5MTY4
+OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2MjJdfQ==
 -->
