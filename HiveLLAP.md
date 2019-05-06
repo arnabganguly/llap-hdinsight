@@ -35,7 +35,7 @@ Create database restaurants;
 2. Use the below Hive statement to create the Hive Table. 
 
 ```
-CREATE TABLE `zomato`(
+CREATE TABLE restaurants.zomato(
   `restaurant id` int, 
   `restaurant name` string, 
   `country code` int, 
@@ -118,7 +118,8 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mjc5MDMzMywtMTU3NzcxNTkxNCwtMT
-EyNzAxOTIyNiwtMTQ4OTI0OTAsNDgwNDY0MzI2LDEwMDg5MTY4
-OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTI4NDYzNTI5MywxMDkyNzkwMzMzLC0xNT
+c3NzE1OTE0LC0xMTI3MDE5MjI2LC0xNDg5MjQ5MCw0ODA0NjQz
+MjYsMTAwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MD
+I5NzYyMl19
 -->
