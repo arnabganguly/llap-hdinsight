@@ -38,8 +38,10 @@ Click **Script Actions(Optional)** -> Click **Submit New**
  - **Bash Script URI**:  *Copy the below bash script URI*
 ```
 https://hdiconfigactions.blob.core.windows.net/dasinstaller/LaunchDASInstaller.sh
-```**Node Types**: Head
-**Parameters**: Leave Blank 
+```
+   
+ - **Node Types**: Head
+ - **Parameters**: Leave Blank 
 This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster. 
 
 8. 
@@ -47,5 +49,5 @@ This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NzQyMTQ1NywtMTU4NzA4ODk0MF19
+eyJoaXN0b3J5IjpbMTIyMTQwNTM0MSwtMTU4NzA4ODk0MF19
 -->
