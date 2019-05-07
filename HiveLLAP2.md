@@ -25,13 +25,19 @@
 
 9. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
 
-10. Click on Queries the query editor from the left using Queries
+10. Click on **Queries** on the left to launch the  query editor.
+
+11. Try Hive queries on the tables created to test if everything is working as expected. A sample query is provided below. 
+
+```
+SELECT c.`RESTAURANT ID`, c.`RESTAURANT NAME`, o.`COUNTRY`, c.`CITY`
+FROM restaurants.zomato c JOIN restaurants.countrycode o
+ON (c.`COUNTRY CODE` = o.`COUNTRY CODE`);
+```
 
 
 
-
-
-11. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+12. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
@@ -78,6 +84,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTYzMDg1OSwtMTU4Mzc4MDk5NCwxNj
-AyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4MjU4MzM3NTQsLTE1ODM3ODA5OTQsMT
+YwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
 -->
