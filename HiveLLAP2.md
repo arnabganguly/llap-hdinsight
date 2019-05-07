@@ -109,9 +109,10 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
    
  - [Run your own HDInsight TPCDS benchmark](https://github.com/arnabganguly/tpcds-hdinsight)
  - [Azure HDInsight performance benchmarking(LLAP, Spark and Presto)](https://azure.microsoft.com/en-us/blog/hdinsight-interactive-query-performance-benchmarks-and-integration-with-power-bi-direct-query/)
+ - [Hortonworks LLAP deep dive](https://community.hortonworks.com/articles/215868/hive-llap-deep-dive.html) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTgzMzQ2NiwtMTU3OTc3MjkzOSwtMT
-AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
-NTEyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NjA2ODk1ODcsLTE1Nzk3NzI5MzksLT
+EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
+ODUxMjYzXX0=
 -->
