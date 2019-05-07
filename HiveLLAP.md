@@ -35,36 +35,59 @@ Create database restaurants;
 2. Use the below Hive statement to create the Hive Table. 
 
 ```
-CREATE TABLE restaurants.zomato(
-  `restaurant id` int, 
-  `restaurant name` string, 
-  `country code` int, 
-  `city` string, 
-  `address` string, 
-  `locality` string, 
-  `locality verbose` string, 
-  `longitude` double, 
-  `latitude` double, 
-  `cuisines` string, 
-  `average cost for two` int, 
-  `currency` string, 
-  `has table booking` string, 
-  `has online delivery` string, 
-  `is delivering now` string, 
-  `switch to order menu` string, 
-  `price range` int, 
-  `aggregate rating` double, 
-  `rating color` string, 
-  `rating text` string, 
-  `votes` int)
-ROW FORMAT SERDE 
-  'org.apache.hadoop.hive.ql.io.orc.OrcSerde' 
-STORED AS INPUTFORMAT 
-  'org.apache.hadoop.hive.ql.io.orc.OrcInputFormat' 
-OUTPUTFORMAT 
-  'org.apache.hadoop.hive.ql.io.orc.OrcOutputFormat'
-LOCATION
-abfss://<file_system>@<storage_account_name>.dfs.core.windows.net/<path>/;
+CREATE TABLE IF NOT EXISTS restaurant.zomato14(
+
+`restaurant id` int,
+
+`restaurant name` string,
+
+`country code` int,
+
+`city` string,
+
+`address` string,
+
+`locality` string,
+
+`locality verbose` string,
+
+`longitude` double,
+
+`latitude` double,
+
+`cuisines` string,
+
+`average cost for two` int,
+
+`currency` string,
+
+`has table booking` string,
+
+`has online delivery` string,
+
+`is delivering now` string,
+
+`switch to order menu` string,
+
+`price range` int,
+
+`aggregate rating` double,
+
+`rating color` string,
+
+`rating text` string,
+
+`votes` int)
+
+ROW FORMAT  DELIMITED  FIELDS TERMINATED BY  ','
+
+lines terminated by  '\n'  STORED AS  TEXTFILE
+
+LOCATION  'abfs://<filesystem>@<storageaccount>.dfs.core.windows.net/hive/warehouse/external/zomato'  TBLPROPERTIES("skip.header.line.count"="1");
+```
+```
+
+LOAD DATA  INPATH  'abfs://agda@agadlsgen22.dfs.core.windows.net/'  INTO  TABLE restaurant.zomato14;
 ```
 
 3. Create LLAP jobs to query the data on Hive. 
@@ -118,8 +141,9 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODIwOTg2MjcsMTg5NzM4NTk5NSwxMj
-g0NjM1MjkzLDEwOTI3OTAzMzMsLTE1Nzc3MTU5MTQsLTExMjcw
-MTkyMjYsLTE0ODkyNDkwLDQ4MDQ2NDMyNiwxMDA4OTE2ODgsND
-g0MjAyNTEyLDU3MzQwMDYwMSwyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMjEwMTA4MzM3NywtMTk4MjA5ODYyNywxOD
+k3Mzg1OTk1LDEyODQ2MzUyOTMsMTA5Mjc5MDMzMywtMTU3Nzcx
+NTkxNCwtMTEyNzAxOTIyNiwtMTQ4OTI0OTAsNDgwNDY0MzI2LD
+EwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2
+MjJdfQ==
 -->
