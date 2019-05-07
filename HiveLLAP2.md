@@ -53,7 +53,7 @@ ON (c.`COUNTRY CODE` = o.`COUNTRY CODE`);
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
 
-
+### Using LLAP, explore Hive  Tables using Zeppelin notebooks
 
 14. Create a new Zeppelin notebook.  
 
@@ -74,7 +74,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ```
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture25.png)
   
- ### Connect LLAP with Power BI
+ ###  Connect Hive LLAP with Power BI
  1. Launch a Power BI desktop and click *Get Data*.
   
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture26.png) 
@@ -98,7 +98,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzQ5NTk0ODEsLTE1Nzk3NzI5MzksLT
+eyJoaXN0b3J5IjpbLTE5NTkzMTY1MTAsLTE1Nzk3NzI5MzksLT
 EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
 ODUxMjYzXX0=
 -->
