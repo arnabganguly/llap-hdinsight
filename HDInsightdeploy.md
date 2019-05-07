@@ -62,12 +62,15 @@ https://<clustername>.azurehdinsight.net/das/
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture42.png)
 
+11. In the next section we would upload data using DAS and work with the various capabilities of LLAP clusters. 
+
+NEXT
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNTIyNTc1NywxMjk1NDU5OTk2LDM2OD
-E2MDAzNywyODM0NzcwMTYsMTIyMTQwNTM0MSwtMTU4NzA4ODk0
-MF19
+eyJoaXN0b3J5IjpbMzk3MTMzMDUsMTI5NTQ1OTk5NiwzNjgxNj
+AwMzcsMjgzNDc3MDE2LDEyMjE0MDUzNDEsLTE1ODcwODg5NDBd
+fQ==
 -->
