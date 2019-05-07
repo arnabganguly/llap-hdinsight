@@ -46,13 +46,15 @@ This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster
 
 8. On the cluster **Summary** page validate the cluster summary and click *Create*. 
 
-9. Post cluster creation click on Ambari home from within the Cluster dashboards section. 
+9. Post cluster creation click on *Ambari home* from within the *Cluster dashboards* section. 
+
+10. Login to Ambari with the  
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMTkyMjI4LDI4MzQ3NzAxNiwxMjIxND
-A1MzQxLC0xNTg3MDg4OTQwXX0=
+eyJoaXN0b3J5IjpbMTczNzg0MTU0OCwyODM0NzcwMTYsMTIyMT
+QwNTM0MSwtMTU4NzA4ODk0MF19
 -->
