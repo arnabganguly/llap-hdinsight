@@ -23,13 +23,15 @@
 
 8. Scroll all the way down and click on **Create Table** to create the hive table in the *restaurants* database. 
 
-9. Repeat steps 3 to 8 uppload the 
+9. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
+
+10. Click on Queries the query editor from the left using Queries
 
 
 
 
 
-8. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+11. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
@@ -76,6 +78,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk1MjUyMzI4LC0xNTgzNzgwOTk0LDE2MD
-I2Mjk5MjUsMTcyNTg1MTI2M119
+eyJoaXN0b3J5IjpbLTM2NTYzMDg1OSwtMTU4Mzc4MDk5NCwxNj
+AyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
 -->
