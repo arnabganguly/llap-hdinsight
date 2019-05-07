@@ -108,9 +108,10 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
    HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-interactive-query-get-started).
    
  - [Run your own HDInsight TPCDS benchmark](https://github.com/arnabganguly/tpcds-hdinsight)
+ - [Azure HDInsight performance benchmarking(LLAP, Spark and Presto)](https://azure.microsoft.com/en-us/blog/hdinsight-interactive-query-performance-benchmarks-and-integration-with-power-bi-direct-query/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTgwNDA4NTUsLTE1Nzk3NzI5MzksLT
-EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
-ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbMTQ4NTgzMzQ2NiwtMTU3OTc3MjkzOSwtMT
+AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
+NTEyNjNdfQ==
 -->
