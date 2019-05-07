@@ -26,9 +26,14 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
  - **Select a Storage account**: Select the Azure Blob storage account created earlier.Note that the **container** field is automatically populated with the name of the storage account. 
  - Leave **Filesystem** and **Additional storage accounts** and **Subscription** and **User-assigned managed identity** options at default state and click *Next* 
 
-6. Do not make any changes to the default settings on the **Applications** and Cluster Size
+6. Do not make any changes to the default settings on the **Applications** and **Cluster Size** blades.
+
+7. In the Script Actions blade run the below script action on the Head Node. This script action installs Data Analytics Studio on the cluster. 
+'
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1NzE2NDkwLC0xNTg3MDg4OTQwXX0=
+eyJoaXN0b3J5IjpbMTI0Nzg1MTc4OCwtMTU4NzA4ODk0MF19
 -->
