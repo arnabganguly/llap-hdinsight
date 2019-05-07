@@ -3,8 +3,7 @@
 ### Create Hive Tables and explore HQL queries using DAS
 
 >**Note:**
-> 
->For code based editors explore VSCode HDInsight Package.
+>For code based editors explore [VSCode HDInsight Package](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-for-vscode).
 
 
 1. Download the files located [here](https://github.com/arnabganguly/llap-hdinsight/tree/master/dataset) onto your desktop. 
@@ -45,12 +44,11 @@ ON (c.`COUNTRY CODE` = o.`COUNTRY CODE`);
 
 
 
-
- . Create a new Zeppelin notebook.  
+14. Create a new Zeppelin notebook.  
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
   
-  6. Insert the following code snippet into a code window within Zeppelin and observe the outcome. 
+ 15. Insert the following code snippet into a code window within Zeppelin and observe the outcome. 
 ```
 %jdbc(hive)
 show databases;
@@ -58,7 +56,7 @@ select * from restaurants.zomato limit 10 ;
 ```
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture24.png)
   
-  7. Now fire a complex query and visualize it using the graphical capabilities of Zeppelin.
+ 16. Now fire a complex query and visualize it using the graphical capabilities of Zeppelin.
 
 ```
 Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range` from restaurants.zomato where city= 'Bangalore'  ;
@@ -89,6 +87,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTc3Nzc4MCwtMTAzMzUwMDE1MCwtMT
-U4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
+eyJoaXN0b3J5IjpbNTc2MTY5NTU5LC0xMDMzNTAwMTUwLC0xNT
+gzNzgwOTk0LDE2MDI2Mjk5MjUsMTcyNTg1MTI2M119
 -->
