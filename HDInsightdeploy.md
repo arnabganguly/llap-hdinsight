@@ -51,13 +51,15 @@ This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster
 ```
 https://<clustername>.azurehdinsight.net/das/ 
  ```
-10. Data Analytics Studio launches with the below
+10. Data Analytics Studio launches with the below screen.
+
+
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEyMzEwMjMxLDI4MzQ3NzAxNiwxMjIxND
-A1MzQxLC0xNTg3MDg4OTQwXX0=
+eyJoaXN0b3J5IjpbMjA0OTcyODQ2NSwyODM0NzcwMTYsMTIyMT
+QwNTM0MSwtMTU4NzA4ODk0MF19
 -->
