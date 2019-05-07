@@ -101,8 +101,11 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
+
+**References**
+Interactive query on Azure 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTc5NTUwMCwtMTU3OTc3MjkzOSwtMT
+eyJoaXN0b3J5IjpbMTIwMDU2OTEyMiwtMTU3OTc3MjkzOSwtMT
 AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
 NTEyNjNdfQ==
 -->
