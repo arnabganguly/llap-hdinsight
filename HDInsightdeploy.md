@@ -45,12 +45,13 @@ https://hdiconfigactions.blob.core.windows.net/dasinstaller/LaunchDASInstaller.s
 This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster. 
 
 8. On the cluster **Summary** page validate the cluster summary and click *Create*. 
+9. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNDc3MDE2LDEyMjE0MDUzNDEsLTE1OD
-cwODg5NDBdfQ==
+eyJoaXN0b3J5IjpbODUxMTgyMywyODM0NzcwMTYsMTIyMTQwNT
+M0MSwtMTU4NzA4ODk0MF19
 -->
