@@ -6,7 +6,6 @@
 > 
 >For code based editors explore VSCode HDInsight Package.
 
-
 1. On the Data Analytics Studio(DAS) , go to the *Database* blade on the left and click **CREATE DATABASE**.
 
 2. Create a database with name *restaurants*.
@@ -34,7 +33,6 @@ SELECT c.`RESTAURANT ID`, c.`RESTAURANT NAME`, o.`COUNTRY`, c.`CITY`
 FROM restaurants.zomato c JOIN restaurants.countrycode o
 ON (c.`COUNTRY CODE` = o.`COUNTRY CODE`);
 ```
-
 
 
 12. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
@@ -84,6 +82,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU4MzM3NTQsLTE1ODM3ODA5OTQsMT
+eyJoaXN0b3J5IjpbLTEwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMT
 YwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
 -->
