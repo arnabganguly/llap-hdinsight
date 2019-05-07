@@ -4,7 +4,7 @@
 
 >**Note:**
 > 
->For code based editors explore VSCode HDInsight 
+>For code based editors explore VSCode HDInsight Package.
 
 
 4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
@@ -54,5 +54,5 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5OTQ4NDgzNSwxNzI1ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbMTYwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
 -->
