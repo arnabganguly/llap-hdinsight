@@ -16,7 +16,10 @@
 
 4. In the **Tables** section click on **Create Table**. 
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
 5. Enter a name for your table . Ensure that it is without any special characters and click Upload Table on the right. 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
 
 6. Leave the file format at default and check *Is first row header* to **True**.
 
@@ -89,7 +92,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NzcwNjI1OCwtMTU3OTc3MjkzOSwtMT
-AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
-NTEyNjNdfQ==
+eyJoaXN0b3J5IjpbMzc5ODc5MzQ4LC0xNTc5NzcyOTM5LC0xMD
+MzNTAwMTUwLC0xNTgzNzgwOTk0LDE2MDI2Mjk5MjUsMTcyNTg1
+MTI2M119
 -->
