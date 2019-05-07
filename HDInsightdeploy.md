@@ -64,13 +64,13 @@ https://<clustername>.azurehdinsight.net/das/
 
 11. In the next section we would upload data using DAS and work with the various capabilities of LLAP clusters. 
 
-NEXT
+[NEXT-->](https://github.com/arnabganguly/llap-hdinsight/blob/master/HiveLLAP2.md) 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3MTMzMDUsMTI5NTQ1OTk5NiwzNjgxNj
-AwMzcsMjgzNDc3MDE2LDEyMjE0MDUzNDEsLTE1ODcwODg5NDBd
-fQ==
+eyJoaXN0b3J5IjpbLTE0NDg4NDE2NzgsMTI5NTQ1OTk5NiwzNj
+gxNjAwMzcsMjgzNDc3MDE2LDEyMjE0MDUzNDEsLTE1ODcwODg5
+NDBdfQ==
 -->
