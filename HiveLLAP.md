@@ -90,10 +90,6 @@ LOCATION  'abfs://<filesystem>@<storageaccount>.dfs.core.windows.net/hive/wareho
 LOAD DATA  INPATH  'abfs://<filesystem>@<storageaccount>.dfs.core.windows.net/'  INTO  TABLE restaurant.zomato;
 ```
 
-3. Create LLAP jobs to query the data on Hive. 
-```
-```
-
 4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
@@ -141,9 +137,9 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTgxNTg1MCwtMTk4MjA5ODYyNywxOD
-k3Mzg1OTk1LDEyODQ2MzUyOTMsMTA5Mjc5MDMzMywtMTU3Nzcx
-NTkxNCwtMTEyNzAxOTIyNiwtMTQ4OTI0OTAsNDgwNDY0MzI2LD
-EwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2
-MjJdfQ==
+eyJoaXN0b3J5IjpbNzYxMzg3NjM1LC0xOTgyMDk4NjI3LDE4OT
+czODU5OTUsMTI4NDYzNTI5MywxMDkyNzkwMzMzLC0xNTc3NzE1
+OTE0LC0xMTI3MDE5MjI2LC0xNDg5MjQ5MCw0ODA0NjQzMjYsMT
+AwODkxNjg4LDQ4NDIwMjUxMiw1NzM0MDA2MDEsMjA0MDI5NzYy
+Ml19
 -->
