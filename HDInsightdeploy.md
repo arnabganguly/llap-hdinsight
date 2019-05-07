@@ -19,7 +19,12 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
  - **Resource Group**:*Put the cluster in the same resource group as the Storage account and MI.* 
  - **Location**: *Use the same Azure Region as the Storage account*
 
- 
+ 5. In the Storage blade populate the following values.
+ - **Primary Azure Storage Type**: *Azure Data Lake Storage Gen2*
+ - **Select a Storage account**: Select the ADLS Gen2 account created earlier
+ - Leave **Filesystem** and **Additional storage accounts** and **Subscription** at default 
+ - **User-assigned managed identity**: Select the MI created earlier from the drop down
+ - Leave rest of the options at default state and click *Next* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcwODg5NDBdfQ==
+eyJoaXN0b3J5IjpbMTE0MjYwNDg2OCwtMTU4NzA4ODk0MF19
 -->
