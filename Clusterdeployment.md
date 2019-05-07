@@ -18,7 +18,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture2.png)
 
- - Populate the **Advanced** tab of Storage account with the below information.
+ 3. Populate the **Advanced** tab of Storage account with the below information.
  - **Security(Secure transfer required)**: *Enabled* 
  - **Virtual Network(Allow access from)**: *All networks*
  - **Data Protection(Blob soft delete**): *Disabled*
@@ -26,7 +26,7 @@ To provision an Azure Data Lake Gen2 Storage account and associate it with a Man
    
    ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture3.png)
   
- - Make no changes to the Tags Tab and post validation click *Create* on the *Review + Create* tab to create an ADLS Gen2 storage account. 
+ 4. Make no changes to the Tags Tab and post validation click *Create* on the *Review + Create* tab to create an ADLS Gen2 storage account. 
   
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture4.png)
  
@@ -104,7 +104,7 @@ In the next section where we would be exploring data analytics using LLAP.
 
 Click [Next](https://github.com/arnabganguly/llap-hdinsight/blob/master/HiveLLAP.md)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwODExNzA2LC0xNTExMTMwMDY2LC0xMz
-EyMjU2NTEzLC03ODQ4NjkzMywtMjExOTE5MDIwNSw1NzExMzM3
-MDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTMxOTA1MTYxLDgzMDgxMTcwNiwtMTUxMT
+EzMDA2NiwtMTMxMjI1NjUxMywtNzg0ODY5MzMsLTIxMTkxOTAy
+MDUsNTcxMTMzNzA1LDczMDk5ODExNl19
 -->
