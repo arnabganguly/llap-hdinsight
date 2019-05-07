@@ -13,11 +13,19 @@
 
 3. In the *Tables* section click on **Create Table**. 
 
-4. Enter a name for your table . Ensure it is without any special characters. 
+4. Enter a name for your table . Ensure that it is without any special characters and click Upload Table on the right. 
+
+5. Leave the file format at default and check *Is first row header* to **True**.
+
+6. 
 
 
 
-4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+
+
+
+
+6. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
@@ -64,6 +72,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODM0MDQyOCwtMTU4Mzc4MDk5NCwxNj
-AyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
+eyJoaXN0b3J5IjpbNjQ3NjY3MTg4LC0xNTgzNzgwOTk0LDE2MD
+I2Mjk5MjUsMTcyNTg1MTI2M119
 -->
