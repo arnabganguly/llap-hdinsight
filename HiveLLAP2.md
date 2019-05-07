@@ -103,9 +103,14 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 
 
 **References**
-[Interactive query on Azure HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-interactive-query-get-started) 
+
+ - [Interactive query on Azure
+   HDInsight](https://docs.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-interactive-query-get-started).
+   
+ - HdInsight TPCDS benchmarks
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM3OTA5MzgsLTE1Nzk3NzI5MzksLT
-EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
-ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbLTk3Njg3MDc0NCwtMTU3OTc3MjkzOSwtMT
+AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
+NTEyNjNdfQ==
 -->
