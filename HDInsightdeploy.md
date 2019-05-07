@@ -44,10 +44,11 @@ https://hdiconfigactions.blob.core.windows.net/dasinstaller/LaunchDASInstaller.s
  - **Parameters**: Leave Blank 
 This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster. 
 
-8. 
+8. On the cluster **Summary** page validate the cluster summary and click *Create*. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTQwNTM0MSwtMTU4NzA4ODk0MF19
+eyJoaXN0b3J5IjpbMTExOTU2NjE0MCwxMjIxNDA1MzQxLC0xNT
+g3MDg4OTQwXX0=
 -->
