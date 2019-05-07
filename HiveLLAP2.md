@@ -17,7 +17,11 @@
 
 5. Leave the file format at default and check *Is first row header* to **True**.
 
-6. Select the upload from local Radio button a
+6. Select the upload from local Radio button and choose the zomato.csv file that you downloaded earlier. 
+
+7. Study the *Table Preview* and *Columns* sections to validate that the Hive table being created is correct in all aspects. 
+
+8. Scroll all the way down to  
 
 
 
@@ -25,7 +29,7 @@
 
 
 
-6. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+8. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
@@ -72,6 +76,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTc0OTAwODksLTE1ODM3ODA5OTQsMT
-YwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbLTQ0OTkwNjI3OSwtMTU4Mzc4MDk5NCwxNj
+AyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
 -->
