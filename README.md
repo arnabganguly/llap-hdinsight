@@ -4,7 +4,7 @@
 
 Before you start the Lab please ensure you have the below
 
- - Azure subscription with authorization to create an HDInsight LLAP cluster. 
+ - Azure subscription with authorization to create an HDInsight (Low Latency Analytical Processing)LLAP cluster. 
  - Download [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/). 
 
 Optional
@@ -15,7 +15,7 @@ Optional
 To the start the lab click [here](https://github.com/arnabganguly/llap-hdinsight/blob/master/ClusterdeployBlob.md).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjQxOTE3NSwxOTgwMzE5Njc5LC0xOT
-IyNDcwMzg0LDE3NDQ0NTUxNzMsMTQ4NTg1MTczNywtMTA5MDg3
-MzkzXX0=
+eyJoaXN0b3J5IjpbMjAzMDQyNTM0MywtNzIyNDE5MTc1LDE5OD
+AzMTk2NzksLTE5MjI0NzAzODQsMTc0NDQ1NTE3MywxNDg1ODUx
+NzM3LC0xMDkwODczOTNdfQ==
 -->
