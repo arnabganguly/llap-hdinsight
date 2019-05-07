@@ -60,13 +60,14 @@ https://<clustername>.azurehdinsight.net/das/
  ```
 10. Data Analytics Studio launches with the below screen.
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture41.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture42.png)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NTQ1OTk5NiwzNjgxNjAwMzcsMjgzND
-c3MDE2LDEyMjE0MDUzNDEsLTE1ODcwODg5NDBdfQ==
+eyJoaXN0b3J5IjpbMTYyNTIyNTc1NywxMjk1NDU5OTk2LDM2OD
+E2MDAzNywyODM0NzcwMTYsMTIyMTQwNTM0MSwtMTU4NzA4ODk0
+MF19
 -->
