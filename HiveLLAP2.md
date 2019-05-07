@@ -6,27 +6,30 @@
 > 
 >For code based editors explore VSCode HDInsight Package.
 
-1. On the Data Analytics Studio(DAS) , go to the *Database* blade on the left and click **CREATE DATABASE**.
 
-2. Create a database with name *restaurants*.
+1. Download the files located [here](https://github.com/arnabganguly/llap-hdinsight/tree/master/dataset) onto your desktop. 
 
-3. In the **Tables** section click on **Create Table**. 
+2. On the Data Analytics Studio(DAS) , go to the *Database* blade on the left and click **CREATE DATABASE**.
 
-4. Enter a name for your table . Ensure that it is without any special characters and click Upload Table on the right. 
+3. Create a database with name *restaurants*.
 
-5. Leave the file format at default and check *Is first row header* to **True**.
+4. In the **Tables** section click on **Create Table**. 
 
-6. Select the upload from local Radio button and choose the zomato.csv file that you downloaded earlier. 
+5. Enter a name for your table . Ensure that it is without any special characters and click Upload Table on the right. 
 
-7. Study the **Table Preview** and **Columns** sections to validate that the Hive table being created is correct in all aspects. 
+6. Leave the file format at default and check *Is first row header* to **True**.
 
-8. Scroll all the way down and click on **Create Table** to create the hive table in the *restaurants* database. 
+7. Select the upload from local Radio button and choose the zomato.csv file that you downloaded earlier. 
 
-9. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
+8. Study the **Table Preview** and **Columns** sections to validate that the Hive table being created is correct in all aspects. 
 
-10. Click on **Queries** on the left to launch the  query editor.
+9. Scroll all the way down and click on **Create Table** to create the hive table in the *restaurants* database. 
 
-11. Try Hive queries on the tables created to test if everything is working as expected. A sample query is provided below. 
+10. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
+
+11. Click on **Queries** on the left to launch the  query editor.
+
+12. Try Hive queries on the tables created to test if everything is working as expected. A sample query is provided below. 
 
 ```
 SELECT c.`RESTAURANT ID`, c.`RESTAURANT NAME`, o.`COUNTRY`, c.`CITY`
@@ -35,11 +38,15 @@ ON (c.`COUNTRY CODE` = o.`COUNTRY CODE`);
 ```
 
 
-12. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+13. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
- 5. Create a new Zeppelin notebook.  
+
+
+
+
+ . Create a new Zeppelin notebook.  
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture23.png)
   
@@ -82,6 +89,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMT
-YwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbLTYyMTc3Nzc4MCwtMTAzMzUwMDE1MCwtMT
+U4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
 -->
