@@ -30,22 +30,23 @@
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture48.png)
 8. Study the **Table Preview** and **Columns** sections to validate that the Hive table being created is correct in all aspects. 
 
-
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture49.png)
 
 9. Scroll all the way down and click on **Create Table** to create the hive table in the *restaurants* database. 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture50.png) 
 
-10. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
+11. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
 
-11. Click on **Queries** on the left to launch the  query editor.
+12. Click on **Queries** on the left to launch the  query editor.
 
-12. Try Hive queries on the tables created to test if everything is working as expected. A sample query is provided below. 
+13. Try Hive queries on the tables created to test if everything is working as expected. A sample query is provided below. 
 
 ```
 SELECT c.`RESTAURANT ID`, c.`RESTAURANT NAME`, o.`COUNTRY`, c.`CITY`
 FROM restaurants.zomato c JOIN restaurants.countrycode o
 ON (c.`COUNTRY CODE` = o.`COUNTRY CODE`);
 ```
-
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture51.png)
 
 13. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
@@ -97,7 +98,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4MDUzOTg5MCwtMTU3OTc3MjkzOSwtMT
-AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
-NTEyNjNdfQ==
+eyJoaXN0b3J5IjpbLTE4NzQ5NTk0ODEsLTE1Nzk3NzI5MzksLT
+EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
+ODUxMjYzXX0=
 -->
