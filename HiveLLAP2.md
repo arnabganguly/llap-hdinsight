@@ -9,13 +9,15 @@
 
 1. On the Data Analytics Studio(DAS) , go to the *Database* blade on the left and click **CREATE DATABASE**.
 
-2. Create a database with name *restaurants*
+2. Create a database with name *restaurants*.
 
-3. 
+3. In the *Tables* section click on **Create Table**. 
+
+4. Enter a name for your table . Ensure it is without any special characters. 
 
 
 
-3. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
+4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture22.png)
   
@@ -62,6 +64,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODA3MzM5MCwtMTU4Mzc4MDk5NCwxNj
+eyJoaXN0b3J5IjpbMTMzODM0MDQyOCwtMTU4Mzc4MDk5NCwxNj
 AyNjI5OTI1LDE3MjU4NTEyNjNdfQ==
 -->
