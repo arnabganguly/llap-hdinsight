@@ -9,23 +9,28 @@
 
 2. On the Data Analytics Studio(DAS) , go to the *Database* blade on the left and click **CREATE DATABASE**.
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture43.png)
 
 3. Create a database with name *restaurants*.
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture45.png)
 
 4. In the **Tables** section click on **Create Table**. 
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
 5. Enter a name for your table . Ensure that it is without any special characters and click Upload Table on the right. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture46.png)
 
 6. Leave the file format at default and check *Is first row header* to **True**.
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture47.png)
+
 7. Select the upload from local Radio button and choose the zomato.csv file that you downloaded earlier. 
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture48.png)
 8. Study the **Table Preview** and **Columns** sections to validate that the Hive table being created is correct in all aspects. 
+
+
 
 9. Scroll all the way down and click on **Create Table** to create the hive table in the *restaurants* database. 
 
@@ -92,7 +97,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzkyODc3OTksLTE1Nzk3NzI5MzksLT
-EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
-ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbLTk4MDUzOTg5MCwtMTU3OTc3MjkzOSwtMT
+AzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAyNjI5OTI1LDE3MjU4
+NTEyNjNdfQ==
 -->
