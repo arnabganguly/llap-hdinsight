@@ -48,7 +48,9 @@ This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTU2NjE0MCwxMjIxNDA1MzQxLC0xNT
-g3MDg4OTQwXX0=
+eyJoaXN0b3J5IjpbMjgzNDc3MDE2LDEyMjE0MDUzNDEsLTE1OD
+cwODg5NDBdfQ==
 -->
