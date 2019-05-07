@@ -2,7 +2,9 @@
 
 ### Create Hive Tables and explore HQL queries using DAS
 
-
+>**Note:**
+> 
+>For code based editors explore VSCode HDInsight 
 
 
 4. From the HDInsight portal , from with in the *Cluster Dashboards* menu, click on *Zepplin Notebook*. 
@@ -52,5 +54,5 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTg1MTI2M119
+eyJoaXN0b3J5IjpbLTQ5OTQ4NDgzNSwxNzI1ODUxMjYzXX0=
 -->
