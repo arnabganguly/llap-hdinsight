@@ -51,7 +51,7 @@ This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster
 
 8. On the cluster **Summary** page validate the cluster summary and click *Create*. 
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture39.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture40.png)
 
 9. Post cluster creation launch the Data Analytics studio with the below URL.
 
@@ -60,13 +60,13 @@ https://<clustername>.azurehdinsight.net/das/
  ```
 10. Data Analytics Studio launches with the below screen.
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture40.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture41.png)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2OTc4Nzg5OSwzNjgxNjAwMzcsMjgzND
+eyJoaXN0b3J5IjpbMTI5NTQ1OTk5NiwzNjgxNjAwMzcsMjgzND
 c3MDE2LDEyMjE0MDUzNDEsLTE1ODcwODg5NDBdfQ==
 -->
