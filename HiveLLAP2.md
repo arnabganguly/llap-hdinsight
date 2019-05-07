@@ -9,10 +9,10 @@
 
 2. On the Data Analytics Studio(DAS) , go to the *Database* blade on the left and click **CREATE DATABASE**.
 
-![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture43.png)
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
 
 3. Create a database with name *restaurants*.
-
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture44.png)
 
 4. In the **Tables** section click on **Create Table**. 
 
@@ -92,7 +92,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5ODc5MzQ4LC0xNTc5NzcyOTM5LC0xMD
-MzNTAwMTUwLC0xNTgzNzgwOTk0LDE2MDI2Mjk5MjUsMTcyNTg1
-MTI2M119
+eyJoaXN0b3J5IjpbLTIwNzkyODc3OTksLTE1Nzk3NzI5MzksLT
+EwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1
+ODUxMjYzXX0=
 -->
