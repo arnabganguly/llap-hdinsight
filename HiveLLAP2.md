@@ -17,7 +17,7 @@
 
 5. Leave the file format at default and check *Is first row header* to **True**.
 
-6. 
+6. Select the upload from local Radio button a
 
 
 
@@ -72,6 +72,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3NjY3MTg4LC0xNTgzNzgwOTk0LDE2MD
-I2Mjk5MjUsMTcyNTg1MTI2M119
+eyJoaXN0b3J5IjpbLTE4OTc0OTAwODksLTE1ODM3ODA5OTQsMT
+YwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
 -->
