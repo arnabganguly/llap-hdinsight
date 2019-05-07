@@ -22,14 +22,12 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 5. Leave the **Security+Networking** blade to its default settings with no changes
 
  5. In the **Storage** blade populate the following values.
- - **Primary Azure Storage Type**: *Azure Data Lake Storage Gen2*
- - **Select a Storage account**: Select the ADLS Gen2 account created earlier
- - Leave **Filesystem** and **Additional storage accounts** and **Subscription** at default 
- - **User-assigned managed identity**: Select the MI created earlier from the drop down
- - Leave rest of the options at default state and click *Next* 
+ - **Primary Azure Storage Type**: *Azure Storage*
+ - **Select a Storage account**: Select the Azure Blob storage account created earlier
+ - Leave **Filesystem** and **Additional storage accounts** and **Subscription** and **User-assigned managed identity** options at default state and click *Next* 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTcyMDQ2MTUsLTE1ODcwODg5NDBdfQ
+eyJoaXN0b3J5IjpbLTIwNjQzMzA3MDQsLTE1ODcwODg5NDBdfQ
 ==
 -->
