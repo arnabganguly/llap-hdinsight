@@ -7,7 +7,7 @@
 >For code based editors explore VSCode HDInsight Package.
 
 
-1. 
+1. On the Data 
 
 
 
@@ -58,6 +58,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNz
-I1ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbMjQzMzAyNDY4LC0xNTgzNzgwOTk0LDE2MD
+I2Mjk5MjUsMTcyNTg1MTI2M119
 -->
