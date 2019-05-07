@@ -2,7 +2,7 @@
 
 ## Deployment
 
-For this lab, an HDInsight cluster is already created for you. If you want to create this cluster on your own, please go through this [deployment guide](https://github.com/arnabganguly/llap-hdinsight/blob/master/Clusterdeployment.md).
+For this lab, an HDInsight cluster is already created for you. If you want to create this cluster on your own, please go through this [deployment guide](https://github.com/arnabganguly/llap-hdinsight/blob/master/ClusterdeployBlob.md).
 
 ## Prerequisites 
 
@@ -14,7 +14,8 @@ Before you start the Lab please ensure you have the below
 
  ## Lab
 To the start the lab click [here](https://github.com/arnabganguly/llap-hdinsight/blob/master/HiveLLAP.md).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI0NzAzODQsMTc0NDQ1NTE3MywxND
-g1ODUxNzM3LC0xMDkwODczOTNdfQ==
+eyJoaXN0b3J5IjpbMTk4MDMxOTY3OSwtMTkyMjQ3MDM4NCwxNz
+Q0NDU1MTczLDE0ODU4NTE3MzcsLTEwOTA4NzM5M119
 -->
