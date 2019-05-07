@@ -3,8 +3,7 @@
 ### Create Hive Tables and explore HQL queries using DAS
 
 >**Note:**
->For code based editors explore [VSCode HDInsight Package](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-for-vscode).
-
+>For code based editors explore [Azure VSCode HDInsight tools for Visual Studio Code](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-for-vscode).
 
 1. Download the files located [here](https://github.com/arnabganguly/llap-hdinsight/tree/master/dataset) onto your desktop. 
 
@@ -87,6 +86,6 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc2MTY5NTU5LC0xMDMzNTAwMTUwLC0xNT
-gzNzgwOTk0LDE2MDI2Mjk5MjUsMTcyNTg1MTI2M119
+eyJoaXN0b3J5IjpbLTE1Nzk3NzI5MzksLTEwMzM1MDAxNTAsLT
+E1ODM3ODA5OTQsMTYwMjYyOTkyNSwxNzI1ODUxMjYzXX0=
 -->
