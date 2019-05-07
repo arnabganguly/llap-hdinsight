@@ -19,12 +19,15 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
  - **Resource Group**:*Put the cluster in the same resource group as the Storage account and MI.* 
  - **Location**: *Use the same Azure Region as the Storage account*
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture36.png)
 5. Leave the **Security+Networking** blade to its default settings with no changes
 
  5. In the **Storage** blade populate the following values.
  - **Primary Azure Storage Type**: *Azure Storage*
  - **Select a Storage account**: Select the Azure Blob storage account created earlier.Note that the **container** field is automatically populated with the name of the storage account. 
  - Leave **Filesystem** and **Additional storage accounts** and **Subscription** and **User-assigned managed identity** options at default state and click *Next* 
+
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture37.png)
 
 6. Do not make any changes to the default settings on the **Applications** and **Cluster Size** blades.
 
@@ -44,6 +47,8 @@ https://hdiconfigactions.blob.core.windows.net/dasinstaller/LaunchDASInstaller.s
  - **Parameters**: Leave Blank 
 This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster. 
 
+![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture38.png)
+
 8. On the cluster **Summary** page validate the cluster summary and click *Create*. 
 
 9. Post cluster creation launch the Data Analytics studio with the below URL.
@@ -60,6 +65,6 @@ https://<clustername>.azurehdinsight.net/das/
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTcyODQ2NSwyODM0NzcwMTYsMTIyMT
+eyJoaXN0b3J5IjpbLTc0MDMyNzUzMSwyODM0NzcwMTYsMTIyMT
 QwNTM0MSwtMTU4NzA4ODk0MF19
 -->
