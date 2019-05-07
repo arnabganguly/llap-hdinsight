@@ -80,7 +80,7 @@ To provision HDInsight Hadoop cluster with Azure Management Portal, perform the 
                                      Version-   *Interactive Query 3.1.0(HDI 4.0)* 
  - **Cluster login username**:Enter username for cluster administrator(default:Admin) 
  - **Cluster login password**:*Enter password for cluster login(default:sshuser)*
- - *Check the box for User cluster password for SSH*
+ - *Check the box for use cluster login password for SSH*
  - **Resource Group**:*Put the cluster in the same resource group as the Storage account and MI.* 
  - **Location**: *Use the same Azure Region as the Storage account and MI*
 
@@ -104,7 +104,7 @@ In the next section where we would be exploring data analytics using LLAP.
 
 Click [Next](https://github.com/arnabganguly/llap-hdinsight/blob/master/HiveLLAP.md)  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODA3NzUsMTMxOTA1MTYxLDgzMDgxMT
-cwNiwtMTUxMTEzMDA2NiwtMTMxMjI1NjUxMywtNzg0ODY5MzMs
-LTIxMTkxOTAyMDUsNTcxMTMzNzA1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTkxMzA4NzY2MiwxMzE5MDUxNjEsODMwOD
+ExNzA2LC0xNTExMTMwMDY2LC0xMzEyMjU2NTEzLC03ODQ4Njkz
+MywtMjExOTE5MDIwNSw1NzExMzM3MDUsNzMwOTk4MTE2XX0=
 -->
