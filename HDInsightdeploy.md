@@ -29,7 +29,11 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 6. Do not make any changes to the default settings on the **Applications** and **Cluster Size** blades.
 
 7. In the Script Actions blade run the below script action on the Head Node. 
-Script Actions(Optional) ->  -> 
+Click **Script Actions(Optional)** -> Click **Submit New** 
+Script Type : Custom 
+Name : Provide a name of your choice
+
+
 
 This script action installs *Data Analytics Studio* on the HDInsight 4.0 cluster. 
 ```
@@ -40,5 +44,5 @@ https://hdiconfigactions.blob.core.windows.net/dasinstaller/LaunchDASInstaller.s
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQwMjk2OSwtMTU4NzA4ODk0MF19
+eyJoaXN0b3J5IjpbLTE3NzQ4NjE0NywtMTU4NzA4ODk0MF19
 -->
