@@ -32,10 +32,10 @@
 Create database restaurants; 
 ```
 
-2. Use the below Hive statement to create the Hive Table. 
+2. Use the below Hive statement to create the Hive table and then load data into the hive table. 
 
 ```
-CREATE TABLE IF NOT EXISTS restaurant.zomato14(
+CREATE TABLE IF NOT EXISTS restaurant.zomato(
 
 `restaurant id` int,
 
@@ -87,7 +87,7 @@ LOCATION  'abfs://<filesystem>@<storageaccount>.dfs.core.windows.net/hive/wareho
 ```
 ```
 
-LOAD DATA  INPATH  'abfs://agda@agadlsgen22.dfs.core.windows.net/'  INTO  TABLE restaurant.zomato14;
+LOAD DATA  INPATH  'abfs://<filesystem>@<storageaccount>.dfs.core.windows.net/'  INTO  TABLE restaurant.zomato;
 ```
 
 3. Create LLAP jobs to query the data on Hive. 
@@ -141,7 +141,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture31.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMTA4MzM3NywtMTk4MjA5ODYyNywxOD
+eyJoaXN0b3J5IjpbMTM2NTgxNTg1MCwtMTk4MjA5ODYyNywxOD
 k3Mzg1OTk1LDEyODQ2MzUyOTMsMTA5Mjc5MDMzMywtMTU3Nzcx
 NTkxNCwtMTEyNzAxOTIyNiwtMTQ4OTI0OTAsNDgwNDY0MzI2LD
 EwMDg5MTY4OCw0ODQyMDI1MTIsNTczNDAwNjAxLDIwNDAyOTc2
