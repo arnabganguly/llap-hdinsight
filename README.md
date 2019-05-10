@@ -14,8 +14,11 @@ Optional
  ## Lab
 To the start the lab click [here](https://github.com/arnabganguly/llap-hdinsight/blob/master/ClusterdeployBlob.md).
 
+## Survey
+Please do complete the [HDinsight Survey](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR6613ua2aihPk14MtaeiuDpUN0JBMVVINE9IVjBWT0dKREYzMUJIT1ZGWi4u) for us to be able to better design the product according to customer and partner preferences. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAwOTE5ODU5LDIwMzA0MjUzNDMsLTcyMj
-QxOTE3NSwxOTgwMzE5Njc5LC0xOTIyNDcwMzg0LDE3NDQ0NTUx
-NzMsMTQ4NTg1MTczNywtMTA5MDg3MzkzXX0=
+eyJoaXN0b3J5IjpbLTEwMDUzODUxNDgsOTAwOTE5ODU5LDIwMz
+A0MjUzNDMsLTcyMjQxOTE3NSwxOTgwMzE5Njc5LC0xOTIyNDcw
+Mzg0LDE3NDQ0NTUxNzMsMTQ4NTg1MTczNywtMTA5MDg3MzkzXX
+0=
 -->
