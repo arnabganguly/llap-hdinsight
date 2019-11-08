@@ -28,7 +28,7 @@
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture47.png)
  
-7. Select the upload from local Radio button and choose the zomato.csv file that you downloaded earlier. Name the table "**Zomato**".
+7. Select the upload from local Radio button and choose the zomato.csv file that you downloaded earlier. Name the table "**zomato**"
 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture48.png)
  
@@ -40,7 +40,7 @@
 9. Scroll all the way down and click on **Create Table** to create the hive table in the *restaurants* database. 
 ![Create Azure Resource Group](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture50.png) 
  
-11. Repeat steps 3 to 8 upload the create a hive table out of the Country-Code.csv file. 
+11. Repeat steps 3 to 8 upload the create a hive table out of the countryode.csv file. Name this Hive table "**countrycode**" 
  
 12. Click on **Queries** on the left to launch the  query editor.
  
@@ -113,7 +113,7 @@ Select `restaurant name`,`aggregate rating`,`average cost for two`,`price range`
  - [Hortonworks LLAP deep dive](https://community.hortonworks.com/articles/215868/hive-llap-deep-dive.html) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE3MzY5MjEsLTE4NjA2ODk1ODcsLT
-E1Nzk3NzI5MzksLTEwMzM1MDAxNTAsLTE1ODM3ODA5OTQsMTYw
-MjYyOTkyNSwxNzI1ODUxMjYzXX0=
+eyJoaXN0b3J5IjpbMTY4MjU2NjU3NywtMTg2MDY4OTU4NywtMT
+U3OTc3MjkzOSwtMTAzMzUwMDE1MCwtMTU4Mzc4MDk5NCwxNjAy
+NjI5OTI1LDE3MjU4NTEyNjNdfQ==
 -->
